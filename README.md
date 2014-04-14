@@ -5,6 +5,4 @@ Basic CSS animations for phonegap
 
 
 
-
-Sorry. Presently this does not work. Not sure why
-Mar 25, 2014
+Basic css animations seem to work. have not yet loaded an image.
