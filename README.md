@@ -7,6 +7,8 @@ Basic CSS animations for phonegap
 
 Basic css animations seem to work. 
 
+Got button activated CSS working as well.
+
 
 
 
